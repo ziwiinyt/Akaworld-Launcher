@@ -1,8 +1,8 @@
 {
     "name": "Akaworld-Launcher",
     "preductname": "Akaworld Launcher",
-    "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Akaworld",
+    "version": "1.0.1",
+    "description": "Launcher Minecraft pour le serveur Akaworld",
     "main": "src/app.js",
     "author": {
         "name": "ziwiinyt, Inc.",
