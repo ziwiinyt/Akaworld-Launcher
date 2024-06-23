@@ -1,20 +1,20 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "Akaworld-Launcher",
+    "preductname": "Akaworld Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft pour le serveur Akaworld",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
+        "name": "ziwiinyt, Inc.",
+        "email": "ziwiin.ty@gmail.com",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://launcher.dragonhosting.fr/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://cdn.discordapp.com/attachments/1089610228527542355/1253998193369284650/Akaworld_20240622_110036_0000.png?ex=667935d3&is=6677e453&hm=d2a008f401135f6f764bdf6601992deeda85bb80f4fb4134be63a39e3e437e99&"
     },
     "license": "CCANC",
     "nodemonConfig": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/ziwiinyt/Akaworld-Launcher.git"
     }
 }
