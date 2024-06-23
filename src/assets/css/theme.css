@@ -1,5 +1,5 @@
 .global {
-    --element-color: #000dc0;
+    --element-color: #0082fc;
     --transition: all 0.5s cubic-bezier(1, 0.46, 0, 1.29);
     --dark-color: #292929;
     --light-color: rgb(245, 245, 245);
